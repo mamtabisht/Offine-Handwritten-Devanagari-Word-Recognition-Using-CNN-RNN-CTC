@@ -611,7 +611,7 @@ wordAccuracy = numWordOK / numWordTotal
 print('Character error rate: %f%%. Word accuracy: %f%%.' % (charErrorRate*100.0, wordAccuracy*100.0))
 
 ##########################################
-# 17 June calculate results after lexicon correction in Beam-Search algo
+# calculate results after lexicon correction in Beam-Search algo
 # now predicted output i.e unique(listtt_beam) is evaluated with lexicon correction
 import editdistance
 numCharErr = 0
@@ -754,7 +754,7 @@ plt.legend(['Training', 'Validation'], loc='upper right')
 plt.show()
 
    
-   
+#################################################################################################################   
 #################################################################################################################   
 
 # testing on Indicword Dataset
