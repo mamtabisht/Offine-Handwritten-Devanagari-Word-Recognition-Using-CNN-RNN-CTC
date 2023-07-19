@@ -1,4 +1,4 @@
-# Ofine-Handwritten-Devanagari-Word-Recognition-Using-CNN-RNN-CTC
+# Offine-Handwritten-Devanagari-Word-Recognition-Using-CNN-RNN-CTC
 
 
 Reference:
